@@ -1,0 +1,17 @@
+h1  {
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+.firstbullet {
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
+
+.firstlist {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}   

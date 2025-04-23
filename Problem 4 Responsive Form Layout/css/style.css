@@ -1,0 +1,30 @@
+/* This path will make ALL "li" tags follow the style property */
+ul li{
+    list-style: none;
+    display: inline;
+}
+
+ul {
+    justify-self: center; 
+}
+
+.navLinks {
+    color: darkblue;
+    text-decoration: none;
+
+    &:hover {
+        color:red;
+    }
+}
+
+#specialLink {
+    color: plum;
+}
+
+/* .navLinks:hover {
+    color: red;
+} */
+
+.nav-item {
+    margin: 10px;
+}
